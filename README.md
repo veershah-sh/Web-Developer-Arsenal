@@ -27,3 +27,4 @@ Tools and useful resources for web developers in one single place.
 ## Other
   - [Wappalyzer](https://www.wappalyzer.com/) Get the tech stack of any website.
   - [Pixel­hunter](https://pixelhunter.io/) Free AI image resizer for social media.
+  - test
