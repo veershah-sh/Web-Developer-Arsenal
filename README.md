@@ -24,6 +24,7 @@ Tools and useful resources for web developers in one single place.
    - [Swiper JS](https://swiperjs.com/)
 ## Back-end Resources
 ## API Reference
+   - [Public Apis](https://github.com/public-apis/public-apis)
 ## Other
   - [Wappalyzer](https://www.wappalyzer.com/) Get the tech stack of any website.
   - [Pixel­hunter](https://pixelhunter.io/) Free AI image resizer for social media.
